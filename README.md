@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Harshlad101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/harshlad101)
 [![Linkedin Follow](https://img.shields.io/linkedin/follow/Harsh Lad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://linkedin.com/in/harsh-lad-712455191/)
-[![Instagram Follow](https://img.shields.io/twitter/follow/yaarteracoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://isntagram.com/yaarteracoder)
+[![Instagram Follow](https://img.shields.io/instagram/follow/yaarteracoder?color=1DA1F2&logo=instagram&style=for-the-badge)](https://isntagram.com/yaarteracoder)
 
 ## I'm a developer, meme creator and a learner!!
 

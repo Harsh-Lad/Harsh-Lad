@@ -16,7 +16,7 @@
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact: I love to write python scripts to irritate by friends 😜
+- ⚡ Fun fact: I love to write python scripts to irritate my friends 😜
 
 
 ## 🚀 Languages and Tools:
